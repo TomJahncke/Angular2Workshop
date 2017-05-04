@@ -10,5 +10,8 @@
 * git clone https://github.com/TomJahncke/Angular2Workshop.git
 * mvn install
 
+# Running the application
+* The application is going to be served and run by SpringBoot
+* https://github.com/TomJahncke/Angular2WorkshopSpringBoot
 
 
