@@ -4,7 +4,7 @@
   "license": "MIT",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve",
+    "start": "ng build --base-href /tohWebUi/ --watch --dev",
     "build": "ng build",
     "build.prod": "ng build --base-href /tohWebUi/ --prod",
     "test": "ng test",
