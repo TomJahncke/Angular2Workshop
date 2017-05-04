@@ -7,7 +7,7 @@ Angular Tour of heroes with SpringBoot for [Google IO Extended Grand Rapids, MI]
 
 Based off of jamzi's [Angular2Workshop](https://angular.io/docs/ts/latest/tutorial/)
 
-* Angular presentation (english) [here](https://docs.google.com/presentation/d/1Vcv861BvrI2GcdLqTuaI2MZ3IhdsoSo_7H4iDHp5h7Q/edit?usp=sharing)  
+* Angular presentation [here](https://docs.google.com/presentation/d/1Vcv861BvrI2GcdLqTuaI2MZ3IhdsoSo_7H4iDHp5h7Q/edit?usp=sharing)  
 
 # Run the final sample 
 * install [NodeJS](https://nodejs.org/en/)
